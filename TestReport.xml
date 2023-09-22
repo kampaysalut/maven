@@ -1,0 +1,37 @@
+=========================
+Test Report
+=========================
+
+Test Suite: MyProjectTestSuite
+
+---------------------------------------
+Test Case: testAddition
+Status: Passed
+Duration: 0.02 seconds
+
+Test Case: testSubtraction
+Status: Passed
+Duration: 0.01 seconds
+
+Test Case: testMultiplication
+Status: Failed
+Duration: 0.03 seconds
+
+Failure Details:
+  - Expected result: 12
+  - Actual result: 15
+
+---------------------------------------
+Test Case: testDivision
+Status: Passed
+Duration: 0.02 seconds
+
+---------------------------------------
+Test Suite Summary
+Total Test Cases: 4
+Passed: 3
+Failed: 1
+Skipped: 0
+Duration: 0.08 seconds
+
+=========================
